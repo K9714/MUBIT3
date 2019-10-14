@@ -1,0 +1,16 @@
+Mubit data file v1.0.0
+
+[Config]
+MusicFileName: Music.mp3
+MusicFileBPM: 120
+MusicBeat: 1/4
+DelayTime: 0
+Title: TestMusic
+SubTitle: SubTitle~
+JudgmentLevel: 1
+GameLevel: 5
+GameKeyNumber: 4
+Background: Picture.png
+
+[HitObject]
+key,line,type,n:m

@@ -1,0 +1,33 @@
+Mubit data file v1.0.0
+
+[Config]
+MusicFileName: Sky Layer.mp3
+MusicFileBPM: 170
+MusicBeat: 1/4
+DelayTime: 0
+Title: Sky Layer
+SubTitle: Composed by OptiU
+JudgmentLevel: 1
+GameLevel: 5
+GameKeyNumber: 4
+Background: Picture.png
+
+[HitObject]
+1,0,5,0:0
+2,0,5,2:0
+4,0,5,3:0
+1,1,5,1:0
+4,2,5,0:0
+2,2,5,6:0
+
+1,5,5,5:0
+2,5,5,7:0
+4,6,5,0:0
+
+4,6,5,7:0
+3,7,5,3:0
+1,8,5,0:0
+
+1,11,5,2:0
+2,11,5,2:0
+3,11,5,2:0

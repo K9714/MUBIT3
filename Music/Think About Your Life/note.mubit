@@ -1,0 +1,19 @@
+Mubit data file v1.0.0
+
+[Config]
+MusicFileName: Think About Your Life.mp3
+MusicFileBPM: 175
+MusicBeat: 4/4
+DelayTime: 0
+Title: Think About Your Life
+SubTitle: Composed by OptiU
+JudgmentLevel: 1
+GameLevel: 7
+GameKeyNumber: 4
+Background: Picture.png
+
+[HitObject]
+1,1,2,0:0
+2,1,2,1:0
+3,1,2,2:0
+4,1,2,3:0
